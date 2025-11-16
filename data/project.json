@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "RachelJaneWittmann",
+    "is_private": false,
+    "title": "River Running",
+    "description": "A collection of river running videos in southern Utah and Colorado in the mid twentieth century. These videos are from home movie collections and document early river rafting, kayaking, and boating on Utah's rivers in red rock country. ",
+    "language": "en",
+    "slug": "riverrunning",
+    "creator": "RachelJaneWittmann",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-11-16T22:44:14.411Z",
+    "updated_at": "2025-11-16T22:44:14.411Z"
   }
 }
