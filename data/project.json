@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "RachelJaneWittmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44006611?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "RachelJaneWittmann",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-11-16T22:44:14.411Z",
-    "updated_at": "2025-11-16T22:44:14.411Z"
-  }
+    "updated_at": "2025-11-16T22:44:14.411Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "f889a8bc-1b3d-497a-b2c9-8b68ce9975cc": {
+      "content": [],
+      "created_at": "2025-11-16T22:44:14.453Z",
+      "created_by": "RachelJaneWittmann",
+      "title": "River Running",
+      "updated_at": "2025-11-16T22:44:14.453Z",
+      "updated_by": "RachelJaneWittmann",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "f889a8bc-1b3d-497a-b2c9-8b68ce9975cc"
+  ]
 }
