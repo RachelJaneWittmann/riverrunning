@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "af3569f9-350d-4119-897b-a58ff3084a39": {
+      "label": "River Trip - Max Waddoups, Desolation",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://collections.lib.utah.edu/dl_files/9d/3d/9d3dfaa7300cc8560c77a09e2486f09f2f173dfa.mp4",
+      "duration": 1062
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "River Trip - Max Waddoups, Desolation",
+  "created_at": "2025-11-16T23:30:02.027Z",
+  "created_by": "RachelJaneWittmann",
+  "updated_at": "2025-11-16T23:30:02.027Z",
+  "updated_by": "RachelJaneWittmann"
+}

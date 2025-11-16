@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-11-16T23:30:02.171Z",
+  "created_by": "RachelJaneWittmann",
+  "title": "Colorado River scrap",
+  "slug": "colorado-river-scrap",
+  "updated_at": "2025-11-16T23:30:02.171Z",
+  "updated_by": "RachelJaneWittmann",
+  "parent": "f889a8bc-1b3d-497a-b2c9-8b68ce9975cc",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "02eeafd6-d9ad-41df-91a5-8cb4a48f11a0"
+  }
+}

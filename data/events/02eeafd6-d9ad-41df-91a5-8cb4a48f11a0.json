@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "304e2772-1f00-45ce-ba9f-f1be95a0939e": {
+      "label": "Colorado River scrap",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://collections.lib.utah.edu/dl_files/82/23/8223a5e133512b6eb4d9532ac4361ac0f62be8e3.mp4",
+      "duration": 1318
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Colorado River scrap",
+  "created_at": "2025-11-16T23:30:02.027Z",
+  "created_by": "RachelJaneWittmann",
+  "updated_at": "2025-11-16T23:30:02.027Z",
+  "updated_by": "RachelJaneWittmann"
+}
