@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "24727970-a3c2-432d-afa9-8deab8935380": {
+      "label": "Suspense Film",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=J-ZDESCVt9I&ab_channel=JamesBradfordHuston",
+      "duration": 616
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Suspense Film",
+  "created_at": "2025-11-16T23:00:40.367Z",
+  "created_by": "RachelJaneWittmann",
+  "updated_at": "2025-11-16T23:00:40.367Z",
+  "updated_by": "RachelJaneWittmann"
+}
