@@ -1,5 +1,227 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Titles of the film The Lonely Villa by David Wark Griffith (1909)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Titles",
+          "category": "Titles"
+        },
+        {
+          "tag": "Titles",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "1e8dcfd1-6ae5-403d-a9fd-0bc40cdac6bd"
+    },
+    {
+      "start_time": 9,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In opposition to Suspense, here the robers are presented at the beginning of the film, not including the scene of the maid quitting. Taking out this part, makes the start of The Lonely Villa fall flat "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Narrative Building",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Film Analysis",
+          "category": "Film Analysis"
+        }
+      ],
+      "uuid": "837227ff-ac33-47c3-a39c-9417054e4d3c"
+    },
+    {
+      "start_time": 40,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The decision of cinematography here of a Long shot in proscenium style shooting, creating a lack of innovativeness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Film Analysis",
+          "category": "Film Analysis"
+        }
+      ],
+      "uuid": "b2feaf51-fd3d-4111-b6e2-86d52b4a0c84"
+    },
+    {
+      "start_time": 96,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the scene entering the house, the camera remains stagnant, where as Weber using a combination of over-head shots and a more dynamic editing and cinematographic style."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Film Analysis",
+          "category": "Film Analysis"
+        }
+      ],
+      "uuid": "9bad33ce-b7ff-4f4e-914e-3fc60538f48f"
+    },
+    {
+      "start_time": 111,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tramp enters the house, but the shot reminds the audience more of a theatrical performance, rather than a film. The camera remains the same for 2 minutes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Film Analysis",
+          "category": "Film Analysis"
+        }
+      ],
+      "uuid": "b499e3b2-a630-4e48-b6f1-afd231426e5b"
+    },
+    {
+      "start_time": 477,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The husband calls the wife to check on her, and realizes she is danger."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Narrative Building",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Film Analysis",
+          "category": "Film Analysis"
+        }
+      ],
+      "uuid": "e972bd40-361d-4278-8e47-0ba6515742ae"
+    },
+    {
+      "start_time": 477,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In contrast with Suspense, which uses a three-way-split-screen with the tramp, the wife, and the husband, in Lonely Villa, there is a simple transtition of two shots."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Film Analysis",
+          "category": "Film Analysis"
+        }
+      ],
+      "uuid": "dbeefd16-e566-476b-9d58-9c88ba0eb5bf"
+    },
+    {
+      "start_time": 645,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In The Lonely Villa car chase scene, the chase lasts only 10 seconds with a stagnant camera, missing a chance to creatively instensify the scene like Suspense."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Narrative Building",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Film Analysis",
+          "category": "Film Analysis"
+        }
+      ],
+      "uuid": "f169823a-c5a0-47d2-b295-0a91131231bf"
+    },
+    {
+      "start_time": 709,
+      "end_time": 714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The End"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Closing Title Card",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "05df8ab3-765b-492e-a7f6-804f01c444df"
+    }
+  ],
   "set": "Default",
   "event_id": "f2771d7d-d83e-40d5-9257-eb5bc0038ec3",
   "source_id": "d4b66849-9c7e-47d9-a9eb-26bbb8a02109"
